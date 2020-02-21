@@ -3,7 +3,9 @@ layout: post
 title: Code Test
 ---
 
-Code test here.
+Code test here. A quick test to see what will show on the excerpt. I think it will show until a return.
+
+This will not show.
 
 ```
 "ConnectionStrings": {
